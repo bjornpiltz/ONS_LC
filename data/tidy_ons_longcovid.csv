@@ -1,0 +1,493 @@
+Impact on daily activity,Domain,Group,Estimate,Lower 95% confidence limit,Upper 95% confidence limit,filename,Date
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,17,13,21,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,25,20,31,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,28,23,33,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,32,27,38,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity not limited,Duration since first (suspected) coronavirus infection,52 to <78 weeks,104,93,116,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity not limited,Duration since first (suspected) coronavirus infection,78 to <104 weeks,30,23,36,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity not limited,Duration since first (suspected) coronavirus infection,104+ weeks,142,129,155,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,13,10,17,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,53,46,60,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,73,62,83,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,76,66,86,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,121,108,134,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,52 to <78 weeks,236,218,254,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,78 to <104 weeks,71,60,81,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,104+ weeks,445,420,470,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,32,26,37,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,13,9,17,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,21,16,26,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,22,17,27,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,43,36,51,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,52 to <78 weeks,73,63,83,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,78 to <104 weeks,17,12,22,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,104+ weeks,175,160,190,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,17,13,22,data/longcovid1920230330accessible.xlsx,2023-03-05
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,34,28,41,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,29,22,36,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,31,25,36,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,46,39,54,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity not limited,Duration since first (suspected) coronavirus infection,52 to <78 weeks,118,105,130,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity not limited,Duration since first (suspected) coronavirus infection,78 to <104 weeks,21,15,26,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity not limited,Duration since first (suspected) coronavirus infection,104+ weeks,157,144,171,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,14,10,17,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,71,62,80,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,72,63,81,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,87,76,97,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,155,140,169,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,52 to <78 weeks,229,211,246,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,78 to <104 weeks,74,63,85,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,104+ weeks,455,430,479,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,34,28,41,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,25,19,31,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,20,15,25,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,29,23,35,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,42,35,48,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,52 to <78 weeks,66,57,75,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,78 to <104 weeks,22,17,28,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,104+ weeks,169,154,184,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,16,12,20,data/longcovid1920230302accessible.xlsx,2023-02-05
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,35,28,43,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,34,28,41,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,27,22,33,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,53,44,63,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity not limited,Duration since first (suspected) coronavirus infection,52 to <78 weeks,102,90,114,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity not limited,Duration since first (suspected) coronavirus infection,78 to <104 weeks,34,27,42,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity not limited,Duration since first (suspected) coronavirus infection,104+ weeks,145,130,159,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,15,11,19,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,83,71,95,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,91,79,103,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,103,90,116,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,152,136,168,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,52 to <78 weeks,172,155,189,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,78 to <104 weeks,116,102,130,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,104+ weeks,395,371,420,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,36,28,44,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,24,17,30,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,26,20,32,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,26,20,33,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,52,43,60,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,52 to <78 weeks,49,40,57,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,78 to <104 weeks,38,31,46,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,104+ weeks,150,135,164,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,17,12,22,data/longcovid1920230202accessible.xlsx,2023-01-02
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,50,42,59,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,44,36,51,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,49,41,57,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,64,54,74,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity not limited,Duration since first (suspected) coronavirus infection,52 to <78 weeks,105,92,118,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity not limited,Duration since first (suspected) coronavirus infection,78 to <104 weeks,51,42,60,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity not limited,Duration since first (suspected) coronavirus infection,104+ weeks,128,115,140,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,22,16,27,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,117,103,130,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,100,89,111,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,134,120,147,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,154,139,170,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,52 to <78 weeks,167,151,184,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,78 to <104 weeks,143,128,158,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,104+ weeks,372,350,395,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,42,34,50,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,24,18,29,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,32,25,39,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,41,33,48,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,34,27,41,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,52 to <78 weeks,43,35,51,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,78 to <104 weeks,51,43,59,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,104+ weeks,145,131,160,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,19,14,23,data/longcovid1920230105accessible.xlsx,2022-12-04
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,56,47,64,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,48,41,56,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,50,43,58,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,76,66,87,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity not limited,Duration since first (suspected) coronavirus infection,52 to <78 weeks,83,72,94,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity not limited,Duration since first (suspected) coronavirus infection,78 to <104 weeks,77,67,88,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity not limited,Duration since first (suspected) coronavirus infection,104+ weeks,121,109,133,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,27,21,33,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,109,97,121,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,119,107,131,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,165,150,180,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,151,137,165,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,52 to <78 weeks,134,119,148,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,78 to <104 weeks,201,184,219,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,104+ weeks,346,324,368,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,46,38,54,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,23,18,28,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,28,22,34,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,38,31,45,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,33,27,39,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,52 to <78 weeks,40,33,48,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,78 to <104 weeks,64,55,73,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,104+ weeks,127,114,140,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,17,12,21,data/longcovid1920221201accessible.xlsx,2022-11-06
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,75,65,85,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,56,47,64,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,64,54,73,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,86,75,96,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity not limited,Duration since first (suspected) coronavirus infection,52 to <78 weeks,71,61,82,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity not limited,Duration since first (suspected) coronavirus infection,78 to <104 weeks,90,79,100,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity not limited,Duration since first (suspected) coronavirus infection,104+ weeks,114,102,126,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,26,20,31,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,155,141,169,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,128,116,141,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,174,159,190,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,107,95,120,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,52 to <78 weeks,87,76,99,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,78 to <104 weeks,221,203,239,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,104+ weeks,300,280,320,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,47,40,55,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,32,26,38,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,30,24,36,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,40,34,47,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,28,23,34,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,52 to <78 weeks,25,19,31,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,78 to <104 weeks,65,57,74,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,104+ weeks,93,82,104,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,18,14,23,data/longcovid1920221103accessible.xlsx,2022-10-01
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,118,106,131,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,63,54,72,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,70,60,80,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,89,77,101,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity not limited,Duration since first (suspected) coronavirus infection,52 to <78 weeks,50,41,60,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity not limited,Duration since first (suspected) coronavirus infection,78 to <104 weeks,106,92,119,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity not limited,Duration since first (suspected) coronavirus infection,104+ weeks,119,107,132,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,27,20,34,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,203,187,219,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,170,154,186,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,166,150,181,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,113,100,126,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity limited a little,Duration since first (suspected) coronavirus infection,52 to <78 weeks,87,74,99,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity limited a little,Duration since first (suspected) coronavirus infection,78 to <104 weeks,218,200,236,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity limited a little,Duration since first (suspected) coronavirus infection,104+ weeks,297,276,318,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,51,42,60,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,41,35,48,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,39,32,46,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,32,26,38,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,25,20,31,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity limited a lot,Duration since first (suspected) coronavirus infection,52 to <78 weeks,20,15,25,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity limited a lot,Duration since first (suspected) coronavirus infection,78 to <104 weeks,64,55,73,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity limited a lot,Duration since first (suspected) coronavirus infection,104+ weeks,97,85,109,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,24,18,30,data/longcovid1920221006accessible2.xlsx,2022-09-03
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,73,62,83,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,76,66,87,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,83,71,95,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,71,60,81,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity not limited,Duration since first (suspected) coronavirus infection,52 to <78 weeks,40,30,49,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity not limited,Duration since first (suspected) coronavirus infection,78 to <104 weeks,78,66,89,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity not limited,Duration since first (suspected) coronavirus infection,104+ weeks,96,85,108,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,18,13,23,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,142,127,158,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,186,169,203,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,127,112,142,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,91,78,104,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,52 to <78 weeks,68,57,79,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,78 to <104 weeks,177,157,196,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,104+ weeks,235,215,255,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,41,33,49,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,37,30,45,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,62,53,72,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,35,28,42,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,29,22,37,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,52 to <78 weeks,27,20,34,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,78 to <104 weeks,75,64,86,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,104+ weeks,98,86,110,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,21,15,27,data/longcovid1920220901accessible.xlsx,2022-07-31
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,73,63,84,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,87,75,98,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,78,68,89,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,51,41,61,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity not limited,Duration since first (suspected) coronavirus infection,52 to <78 weeks,45,36,54,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity not limited,Duration since first (suspected) coronavirus infection,78 to <104 weeks,52,42,61,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity not limited,Duration since first (suspected) coronavirus infection,104+ weeks,94,83,106,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,24,17,30,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,137,123,151,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,192,175,209,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,103,89,116,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,52,43,62,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,52 to <78 weeks,82,69,94,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,78 to <104 weeks,112,98,126,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,104+ weeks,189,173,206,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,50,42,59,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,33,27,39,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,64,54,73,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,35,28,42,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,26,20,32,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,52 to <78 weeks,43,35,52,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,78 to <104 weeks,48,40,56,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,104+ weeks,96,84,108,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,23,17,29,data/ongoingsymptomsfollowingcovid1920220804accessible.xlsx,2022-07-02
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,107,96,119,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,98,85,110,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,77,67,88,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,37,29,44,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity not limited,Duration since first (suspected) coronavirus infection,52 to <78 weeks,56,48,65,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity not limited,Duration since first (suspected) coronavirus infection,78 to <104 weeks,49,40,57,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity not limited,Duration since first (suspected) coronavirus infection,104+ weeks,101,89,113,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,26,19,32,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,226,209,244,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,158,143,174,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,99,87,111,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,46,38,54,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,52 to <78 weeks,115,102,128,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,78 to <104 weeks,87,75,98,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,104+ weeks,200,184,215,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,59,50,68,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,71,62,81,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,64,55,73,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,35,28,43,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,16,11,21,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,52 to <78 weeks,55,47,64,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,78 to <104 weeks,42,34,50,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,104+ weeks,102,91,114,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,23,17,28,data/ongoingsymptomsfollowingcovid1920220707accessible.xlsx,2022-06-04
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,122,111,133,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,111,100,123,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,74,65,84,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,25,19,31,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity not limited,Duration since first (suspected) coronavirus infection,52 to <78 weeks,81,71,91,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity not limited,Duration since first (suspected) coronavirus infection,78 to <104 weeks,35,28,41,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity not limited,Duration since first (suspected) coronavirus infection,104+ weeks,101,91,112,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,33,26,39,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,253,236,270,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,182,167,197,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,90,79,100,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,25,19,30,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,52 to <78 weeks,149,135,163,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,78 to <104 weeks,74,65,82,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,104+ weeks,189,175,203,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,48,40,56,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,68,59,76,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,61,53,70,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,35,29,41,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,8,5,10,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,52 to <78 weeks,73,64,83,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,78 to <104 weeks,39,32,46,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,104+ weeks,86,76,95,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,29,23,34,data/ongoingsymptomsfollowingcovid1920220601accessible.xlsx,2022-05-01
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,126,114,138,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,129,117,140,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,63,55,71,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,11,7,14,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity not limited,Duration since first (suspected) coronavirus infection,52 to <78 weeks,104,94,115,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity not limited,Duration since first (suspected) coronavirus infection,78 to <104 weeks,57,50,65,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity not limited,Duration since first (suspected) coronavirus infection,104+ weeks,67,60,75,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,28,23,34,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,194,180,208,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,145,133,157,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,79,70,89,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,10,7,13,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity limited a little,Duration since first (suspected) coronavirus infection,52 to <78 weeks,160,147,172,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity limited a little,Duration since first (suspected) coronavirus infection,78 to <104 weeks,109,99,119,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity limited a little,Duration since first (suspected) coronavirus infection,104+ weeks,117,107,127,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,49,43,56,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,63,55,71,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,50,43,57,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,25,20,30,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,5,3,7,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity limited a lot,Duration since first (suspected) coronavirus infection,52 to <78 weeks,75,67,83,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity limited a lot,Duration since first (suspected) coronavirus infection,78 to <104 weeks,50,44,57,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity limited a lot,Duration since first (suspected) coronavirus infection,104+ weeks,51,44,58,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,28,22,33,data/ongoingsymptomsfollowingcovid1920220506accessible.xlsx,2022-04-03
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,145,133,158,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,110,99,120,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,52,44,60,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,6,4,9,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity not limited,Duration since first (suspected) coronavirus infection,52 to <78 weeks,107,97,118,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity not limited,Duration since first (suspected) coronavirus infection,78 to <104 weeks,102,92,111,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity not limited,Duration since first (suspected) coronavirus infection,104+ weeks,20,16,24,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,35,29,40,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,216,201,231,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,110,99,120,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,52,44,59,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,18,13,22,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,52 to <78 weeks,172,158,185,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,78 to <104 weeks,174,161,187,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,104+ weeks,37,31,42,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,47,40,54,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,61,53,69,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,42,35,48,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,17,13,21,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,6,4,9,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,52 to <78 weeks,81,72,90,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,78 to <104 weeks,74,66,82,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,104+ weeks,17,13,21,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,24,19,29,data/ongoingsymptomsfollowingcovid1920220407accessibleupdated.xlsx,2022-03-05
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,33,27,38,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,131,119,143,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,112,101,122,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,31,25,37,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,18,14,22,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity not limited,Duration since first (suspected) coronavirus infection,>= 52 weeks,215,201,229,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,45,39,51,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,164,150,177,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,109,98,119,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,34,28,40,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,32,26,39,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,>= 52 weeks,324,307,342,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,26,21,31,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,49,42,56,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,37,31,43,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,8,5,11,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,16,12,19,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,>= 52 weeks,145,134,156,data/ongoingsymptomsfollowingcovid1920220303accessibleupdated.xlsx,2022-01-31
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,114,102,125,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,104,92,116,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,10,7,14,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,50,42,58,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity not limited,Duration since first (suspected) coronavirus infection,>= 52 weeks,179,165,194,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,38,31,44,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,33,27,39,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,27,21,32,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,3,1,5,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,33,27,40,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,>= 52 weeks,121,109,133,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,27,21,32,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,128,115,140,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,86,75,96,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,12,8,16,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,68,59,77,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,>= 52 weeks,254,237,270,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,45,38,53,data/ongoingsymptomsfollowingcovid1920220203.xlsx,2022-01-02
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,115,103,126,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,76,66,86,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,9,6,12,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,57,49,64,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity not limited,Duration since first (suspected) coronavirus infection,>= 52 weeks,166,153,179,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,34,28,41,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,42,35,49,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,18,13,22,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,5,3,7,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,44,37,51,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,>= 52 weeks,112,102,122,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,27,21,32,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,113,101,124,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,71,61,80,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,14,10,18,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,94,84,104,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,>= 52 weeks,228,213,243,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,44,38,50,data/ongoingsymptomsfollowingcovid1920220106.xlsx,2021-12-06
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,95,84,106,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,50,41,58,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,23,18,28,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,92,82,102,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity not limited,Duration since first (suspected) coronavirus infection,>= 52 weeks,138,126,149,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,37,31,43,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,30,25,35,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,11,8,15,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,14,10,17,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,54,46,61,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,>= 52 weeks,98,88,108,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,26,21,31,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,107,95,118,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,46,39,54,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,33,27,39,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,101,91,112,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,>= 52 weeks,204,190,218,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,53,45,60,data/ongoingsymptomsfollowingcovid1920211202.xlsx,2021-10-31
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,115,101,128,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,17,13,22,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,63,54,72,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,73,64,82,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity not limited,Duration since first (suspected) coronavirus infection,>= 52 weeks,122,110,134,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,31,26,37,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,28,23,34,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,8,5,11,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,35,29,42,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,38,32,44,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,>= 52 weeks,97,88,107,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,26,21,32,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,97,86,108,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,21,15,26,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,74,64,83,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,94,84,103,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,>= 52 weeks,206,192,221,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,56,48,63,data/ongoingsymptomsfollowingcovid1920211104.xlsx,2021-10-02
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,68,58,79,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,13,8,17,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,81,70,91,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,65,55,75,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity not limited,Duration since first (suspected) coronavirus infection,>= 52 weeks,122,110,134,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,31,25,37,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,17,12,21,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,5,3,7,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,47,39,55,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,29,23,34,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,>= 52 weeks,90,80,100,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,24,19,29,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,69,59,80,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,14,9,18,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,104,93,115,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,70,60,79,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,>= 52 weeks,193,178,208,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,46,39,52,data/ongoingsymptomsfollowingcovid1920211007.xlsx,2021-09-05
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,22,17,28,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,28,22,34,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,106,94,118,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,27,21,33,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity not limited,Duration since first (suspected) coronavirus infection,>= 52 weeks,114,104,125,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,29,24,35,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,8,5,12,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,14,10,17,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,45,39,52,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,16,12,20,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,>= 52 weeks,83,74,92,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,22,18,27,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,26,20,32,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,36,29,43,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,125,113,136,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,37,31,44,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,>= 52 weeks,186,173,200,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,45,39,52,data/ongoingsymptomsfollowingcovid1920210902.xlsx,2021-08-01
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,7,4,9,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,65,57,74,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,92,82,103,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,13,9,17,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity not limited,Duration since first (suspected) coronavirus infection,>= 52 weeks,127,115,139,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,30,24,35,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,5,2,7,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,35,29,41,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,43,37,50,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,7,4,9,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,>= 52 weeks,74,66,83,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,18,14,23,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,6,3,8,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,87,77,97,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,96,86,107,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,17,12,21,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,>= 52 weeks,178,165,192,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,45,38,52,data/ongoingsymptomsfollowingcovid1920210805.xlsx,2021-07-04
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,7,4,9,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,96,85,107,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,66,57,75,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,10,7,13,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity not limited,Duration since first (suspected) coronavirus infection,>= 52 weeks,120,109,131,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,29,23,34,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,6,3,9,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,44,37,51,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,30,25,36,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,7,4,9,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,>= 52 weeks,75,67,83,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,17,13,21,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,8,5,11,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,128,116,140,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,77,68,87,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,13,9,16,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,>= 52 weeks,190,176,204,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,40,34,47,data/ongoingsymptomsfollowingcovid1920210701.xlsx,2021-06-06
+Activity not limited,Duration since first (suspected) coronavirus infection,0 to <12 weeks,27,21,32,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
+Activity not limited,Duration since first (suspected) coronavirus infection,12 to <26 weeks,136,123,149,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
+Activity not limited,Duration since first (suspected) coronavirus infection,26 to <39 weeks,36,30,43,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
+Activity not limited,Duration since first (suspected) coronavirus infection,39 to <52 weeks,19,15,24,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
+Activity not limited,Duration since first (suspected) coronavirus infection,>= 52 weeks,123,113,134,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
+Activity not limited,Duration since first (suspected) coronavirus infection,Unknown duration,29,23,34,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,0 to <12 weeks,11,8,15,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,12 to <26 weeks,61,53,69,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,26 to <39 weeks,18,14,22,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,39 to <52 weeks,13,10,17,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,>= 52 weeks,72,64,80,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
+Activity limited a lot,Duration since first (suspected) coronavirus infection,Unknown duration,15,12,19,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,0 to <12 weeks,28,23,34,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,12 to <26 weeks,142,130,154,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,26 to <39 weeks,37,31,43,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,39 to <52 weeks,29,24,34,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,>= 52 weeks,180,167,193,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
+Activity limited a little,Duration since first (suspected) coronavirus infection,Unknown duration,42,36,49,data/ongoingsymptomsfollowingcovid1920210604.xlsx,2021-05-02
