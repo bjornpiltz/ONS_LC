@@ -1,5 +1,5 @@
 # Prevalence of ongoing symptoms following coronavirus (COVID-19) infection in the UK
-This repository contains the results from the [ONS long COVID survey](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/alldatarelatingtoprevalenceofongoingsymptomsfollowingcoronaviruscovid19infectionintheuk).
+This repository contains the results from the [ONS long COVID survey](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/alldatarelatingtoprevalenceofongoingsymptomsfollowingcoronaviruscovid19infectionintheuk) up until and including March 30, 2023.
 You can download the raw data under [data/tidy_ons_longcovid.csv](data/tidy_ons_longcovid.csv).
 
 Click on an image to see it in full resolution.
